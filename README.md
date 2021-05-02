@@ -6,7 +6,7 @@
 ## I'm a Student, Self - Taught Developer, and Programming Tutor.
 
 - 👓 I’m currently learning Django Rest Framework
-- 🔎 I’m planning to learn Data Science, and Go language (mainlt for API-s)
+- 🔎 I’m planning to learn Data Science, and Go language (mainly for API-s)
 - ⚡ I would like to collaborate with other developers with the same interests
 - 💜 Things I like apart from coding: I love reading novels, listening to music, playing tennis, and riding bicycle.
 
