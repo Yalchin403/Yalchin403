@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Yalchin Spotify Playing" width="350" />](https://open.spotify.com/search/stelar%20homesick)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Yalchin Spotify Playing" width="350" />](https://open.spotify.com/user/rxr4bswu4fk92jfwm5kzc5ji3)
 
 ### Connect with me:
 
