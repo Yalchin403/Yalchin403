@@ -3,7 +3,7 @@
 
 
 
-## I'm a Student, Self - Taught Developer, and Programming Tutor.
+## I'm a Student, Self - Taught Developer, Linux Enthusiast, and Programming Tutor.
 
 - 👓 I’m currently learning Django Rest Framework
 - 🔎 I’m planning to learn Data Science, and Go language (mainly for API-s)
