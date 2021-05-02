@@ -51,11 +51,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-2. 🗣 Commented on [#1](https://github.com/codeSTACKr/spotify-now-playing/issues/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-3. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+1. ❗️ Opened issue [#6366](https://github.com/VSCodeVim/Vim/issues/6366) in [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim)
+2. ❗️ Closed issue [#2](https://github.com/Sevil2005/PragmatechPythonProject/issues/2) in [Sevil2005/PragmatechPythonProject](https://github.com/Sevil2005/PragmatechPythonProject)
+3. ❗️ Closed issue [#3](https://github.com/Sevil2005/PragmatechPythonProject/issues/3) in [Sevil2005/PragmatechPythonProject](https://github.com/Sevil2005/PragmatechPythonProject)
+4. ❗️ Closed issue [#2](https://github.com/ZaurHasanov04/PragmatechPythonProject/issues/2) in [ZaurHasanov04/PragmatechPythonProject](https://github.com/ZaurHasanov04/PragmatechPythonProject)
+5. ❗️ Closed issue [#3](https://github.com/ZaurHasanov04/PragmatechPythonProject/issues/3) in [ZaurHasanov04/PragmatechPythonProject](https://github.com/ZaurHasanov04/PragmatechPythonProject)
 <!--END_SECTION:activity-->
 
 </details>
