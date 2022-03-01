@@ -1,73 +1,33 @@
-### Hi there, I'm Yalchin Mammadli - [website] and [discord server] 👋
+<h1 align="center">Hi 👋, I'm Yalchin Mammadli</h1>
+<h3 align="center">I'm a Senior Engneering Student, Self - Taught Developer, Linux Enthusiast, and Programming Tutor.</h3>
+
+<img align="right" alt="Yalchin Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611053e7cbeceac7ab844eca141a0e5ac69b856146a&rid=giphy.gif&ct=g">
 
 
+- 🌱 I’m currently learning **Devops**
 
+- 👯 I’m looking to collaborate with **Pythonistas, Gophers, and Node.js Developers**
 
-## I'm a Student, Self - Taught Developer, Linux Enthusiast, and Programming Tutor.
+- 📝 I regularly write articles on [https://yalchin.info/blog](https://yalchin.info/blog)
 
-- 👓 I’m currently learning Django Rest Framework
-- 🔎 I’m planning to learn Data Science, and Go language (mainly for API-s)
-- ⚡ I would like to collaborate with other developers with the same interests
-- 💜 Things I like apart from coding: I love reading novels, listening to music, playing tennis, and riding bicycle.
+- 💬 Ask me about **Python, Node.js, Linux, and DevOps**
 
-### Spotify Playing 🎧
+- 📫 How to reach me **yalchinmammadli@yalchin.info**
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Yalchin Spotify Playing" width="350" />](https://open.spotify.com/user/rxr4bswu4fk92jfwm5kzc5ji3)
+- 📄 Know about my experiences: [Resume](https://shrt-url.ml/t38vkh)
 
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/yalchin-mammadli-42b30318a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yalchin-mammadli-42b30318a" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14834383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14834383" height="30" width="40" /></a>
 
-[<img align="left" alt="yalchin.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="yalchin.info | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="yalchin.info | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+</p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3><br>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p><br>
 
-### Languages and Tools:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yalchin403&show_icons=true&locale=en&layout=compact" alt="yalchin403" /></p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" />
-<img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yalchin403&show_icons=true&locale=en" alt="yalchin403" /></p>
 
-### 📕 Some of My Blog Posts
-
-- [How to set up supervisor service](https://yalchin.info/blog/how-to-set-up-supervisor-service/)
-- [Map, Sort, and Filter Functions in Python](https://yalchin.info/blog/map-sort-and-filter-functions-in-python/)
-- [Written tutorial on secure connection to VPS](https://yalchin.info/blog/written-tutorial-on-secure-connection-to-vps/)
-- [Written tutorial on vim](https://yalchin.info/blog/written-tutorial-on-vim/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://yalchin.info/blog)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/Derrick-Sherrill/Python-Algorithms-YouTube-Series/issues/4) in [Derrick-Sherrill/Python-Algorithms-YouTube-Series](https://github.com/Derrick-Sherrill/Python-Algorithms-YouTube-Series)
-2. ❗️ Opened issue [#7](https://github.com/thevinter/styli.sh/issues/7) in [thevinter/styli.sh](https://github.com/thevinter/styli.sh)
-3. ❗️ Closed issue [#2](https://github.com/jshiriyev/bhospy/issues/2) in [jshiriyev/bhospy](https://github.com/jshiriyev/bhospy)
-4. ❗️ Opened issue [#2](https://github.com/jshiriyev/bhospy/issues/2) in [jshiriyev/bhospy](https://github.com/jshiriyev/bhospy)
-5. ❗️ Opened issue [#606](https://github.com/zsh-users/zsh-autosuggestions/issues/606) in [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Yalchin's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Yalchin403&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://yalchin.info
-[discord server]: https://discord.gg/ayeGrsaSG2
-[instagram]: https://www.instagram.com/yalchin_mammadli/
-[linkedin]: https://www.linkedin.com/in/yalchin-mammadli-42b30318a
-[facebook]: https://facebook.com/YalchinMammadli
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yalchin403&" alt="yalchin403" /></p>
