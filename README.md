@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yalchin Mammadli</h1>
-<h3 align="center">I'm a Senior Engneering Student, Self - Taught Developer, Linux Enthusiast, and Programming Tutor.</h3>
+<h3 align="center">I'm Python/Node.js developer, linux enthusiast, and programming Tutor.</h3>
 
 <img align="right" alt="Yalchin Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611053e7cbeceac7ab844eca141a0e5ac69b856146a&rid=giphy.gif&ct=g">
 
